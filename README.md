@@ -7,3 +7,6 @@ How will the program create the receipts? It will take the barcode and look up a
 On the receipt one can find the grocery store's name, website, purchase information and a friendly message to the consumer.
 
 Any barcode inputs that do not match an id on the products list in the CSV file will cause an error to appear to the cashier that states, "Invalid entry. Please try again."
+
+
+package installation commands and python commands 
