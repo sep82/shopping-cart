@@ -8,8 +8,6 @@ On the receipt one can find the grocery store's name, website, purchase informat
 
 Any barcode inputs that do not match an id on the products list in the CSV file will cause an error to appear to the cashier that states, "Invalid entry. Please try again."
 
-The csv package is used in this program.
-
 The python commands you will need to input on your command-line editor are:
   
    #navigating to the correct directory/the path to your file
