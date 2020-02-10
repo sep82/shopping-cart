@@ -8,5 +8,18 @@ On the receipt one can find the grocery store's name, website, purchase informat
 
 Any barcode inputs that do not match an id on the products list in the CSV file will cause an error to appear to the cashier that states, "Invalid entry. Please try again."
 
+The csv package is used in this program.
 
-package installation commands and python commands 
+The python commands you will need to input on your command-line editor are:
+  
+   #navigating to the correct directory/the path to your file
+   cd ~/Desktop/shopping cart 
+   
+   #setup your environment
+   conda create -n shopping-env python=3.7 # (first time only)
+   conda activate shopping-env
+  
+   #run the program
+   python shoppingCart.py #to run this program you will need to have downloaded the products.csv in this repository
+   #alternatively, if you would like to run the file without a csv you can type python shoppingCartBasic2.py
+   
